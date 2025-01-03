@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - 2black0
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - 2black0/MicroPython-ESP32-BLE
+  - 2black0/Template-LaTeX-Tugas-Akhir-Sarjana-Terapan-UNY
+  - 2black0/matlab_quadcopter
+  - 2black0/GA-Python
